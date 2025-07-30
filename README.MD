@@ -1,6 +1,6 @@
 # 🐍 Snake Game - Java 8 Edition
 
-Este proyecto es una implementación del clásico juego **Snake**, desarrollado en Java 8 con una interfaz gráfica atractiva y funcionalidades mejoradas. El objetivo del juego es controlar una serpiente que se desplaza por el tablero y debe recolectar alimentos sin chocar consigo misma ni con los bordes (si se activa esa modalidad).
+Este proyecto es una implementación del clásico juego **Snake**, desarrollado en Java 8 con una interfaz gráfica atractiva y funcionalidades mejoradas. El objetivo del juego es controlar una serpiente que se desplaza por el tablero y debe recolectar alimentos sin chocar consigo misma.
 
 ---
 
